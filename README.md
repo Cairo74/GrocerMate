@@ -33,7 +33,7 @@ Siga estas instruções para configurar e rodar o projeto em seu ambiente local.
 ### Pré-requisitos
 
 - **Flutter SDK**: Certifique-se de que você tem o Flutter instalado. Para mais informações, acesse a [documentação oficial do Flutter](https://flutter.dev/docs/get-started/install).
-- **Supabase Account**: Você precisará de uma conta no Supabase para obter as chaves de API do seu backend.
+- Você precisará das keys do supabase para conseguir rodar localmente!
 
 ### Instalação
 
