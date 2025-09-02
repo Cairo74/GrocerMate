@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786603002798",
+    "project_id": "grocermate-97318",
+    "storage_bucket": "grocermate-97318.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786603002798:android:093b5c5a9980e805bcd63f",
+        "android_client_info": {
+          "package_name": "com.example.grocermate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfz0tGaVARYEJ1NwBHt34gZNRLGwHH2rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
